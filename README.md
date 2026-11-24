@@ -83,3 +83,13 @@ Run:
 cd client && npm install && npm run dev
 ```
 Open **http://localhost:5173** in your browser.
+
+---
+
+## 5. Demo Credentials
+
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **Admin** | `admin@example.com` | `admin` |
+| **Client / Devotee** | `user@example.com` | `user` |
+

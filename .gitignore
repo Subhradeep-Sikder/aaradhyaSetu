@@ -70,5 +70,3 @@ docker-compose*.yaml
 # Readme and node_modules patterns
 **/node_modules/
 **/node_modules/**
-README.md
-**/README.md
